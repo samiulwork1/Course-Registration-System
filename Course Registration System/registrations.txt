@@ -1,8 +1,0 @@
-Index: 1
-Student Name: mohammad
-Student ID: 100
-Department: cse
-Course Code: 101
-Course Title: java
-Credit: 3
-------------------------------
